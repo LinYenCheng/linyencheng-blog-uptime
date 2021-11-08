@@ -4,7 +4,7 @@ repo: linyencheng-blog-uptime # The name of this repository
 
 sites:
   - name: 前端三分鐘
-    url: https://linyencheng.github.io/
+    url: https://linyencheng.github.io/sitemap.xml
   - name: YenCheng Link
     url: https://linyencheng.github.io/LinkFree/
 
