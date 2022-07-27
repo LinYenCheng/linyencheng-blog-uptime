@@ -5,16 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/linyencheng.github.io",
     "slug": "yen-cheng-blog-health",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 281,
-    "timeWeek": 208,
-    "timeMonth": 166,
+    "timeDay": 302,
+    "timeWeek": 223,
+    "timeMonth": 171,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-27": 24
+    }
   }
 ]
