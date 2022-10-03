@@ -2,7 +2,7 @@
   {
     "name": "YenCheng Blog Health",
     "url": "https://linyencheng.github.io/about",
-    "icon": "https://favicons.githubusercontent.com/linyencheng.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/linyencheng.github.io.ico",
     "slug": "yen-cheng-blog-health",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 41,
-    "timeWeek": 155,
-    "timeMonth": 171,
+    "timeDay": 165,
+    "timeWeek": 168,
+    "timeMonth": 168,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2022-07-27": 24
