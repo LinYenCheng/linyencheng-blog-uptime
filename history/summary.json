@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 58,
-    "timeWeek": 124,
-    "timeMonth": 129,
+    "timeDay": 91,
+    "timeWeek": 122,
+    "timeMonth": 128,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -28,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 30,
-    "timeWeek": 63,
+    "time": 55,
+    "timeDay": 44,
+    "timeWeek": 61,
     "timeMonth": 58,
     "timeYear": 56,
     "dailyMinutesDown": {}
@@ -41,13 +41,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/linyencheng.github.io.ico",
     "slug": "coffee-map-health",
     "status": "up",
-    "uptime": "93.24%",
+    "uptime": "93.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.02%",
+    "uptimeYear": "96.29%",
     "time": 57,
-    "timeDay": 23,
+    "timeDay": 39,
     "timeWeek": 69,
     "timeMonth": 66,
     "timeYear": 58,
@@ -64,8 +64,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   }
 ]
